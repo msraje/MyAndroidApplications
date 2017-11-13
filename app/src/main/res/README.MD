@@ -1,0 +1,1 @@
+A simple android application to get the star compliance for a marriage

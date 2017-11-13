@@ -46,11 +46,10 @@
         android:layout_width="360dp"
         android:layout_height="191dp"
         android:layout_marginEnd="24dp"
-        android:layout_marginTop="244dp"
         android:background="#CBEFCB"
         android:textAlignment="textStart"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView37">
+        tools:layout_editor_absoluteY="150dp">
 
         <TableRow
             android:id="@+id/dhina"
@@ -295,15 +294,13 @@
         android:id="@+id/textView"
         android:layout_width="307dp"
         android:layout_height="114dp"
-        android:layout_marginBottom="103dp"
-        android:layout_marginEnd="4dp"
         android:text="disclaimer: This is a highlevel prediction. For further details consult with your astrologer."
         android:textAlignment="center"
         android:textColor="@android:color/holo_red_dark"
         android:textSize="8sp"
         android:textStyle="italic"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+        tools:layout_editor_absoluteX="61dp"
+        tools:layout_editor_absoluteY="385dp" />
 
     <Button
         android:id="@+id/button4"
@@ -323,27 +320,19 @@
         android:id="@+id/textView5"
         android:layout_width="473dp"
         android:layout_height="49dp"
-        android:layout_marginBottom="16dp"
-        android:layout_marginEnd="16dp"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
         android:text="TextView"
-        app:layout_constraintBottom_toTopOf="@+id/textView6"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        tools:layout_editor_absoluteY="16dp" />
 
     <TextView
         android:id="@+id/textView6"
         android:layout_width="483dp"
         android:layout_height="47dp"
-        android:layout_marginBottom="16dp"
         android:layout_marginEnd="16dp"
         android:layout_marginStart="16dp"
         android:text="TextView"
-        app:layout_constraintBottom_toTopOf="@+id/textView37"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="93dp" />
 
     <android.support.constraint.Guideline
         android:id="@+id/guideline"
