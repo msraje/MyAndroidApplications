@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Nakshatra Porutham</string>
+    <string name="action_settings">Settings</string>
+    <string name="girl_nakshatram">Select girl\'s nakshatram</string>
+    <string name="boy_nakshatram">Select boy\'s nakshatram</string>
+    <string-array name="nakshatra_array">
+        <item>Asupathi-Mesham</item>
+        <item>Bharani-Mesham</item>
+        <item>Karthigai - Pada 1 - Mesham</item>
+        <item>Karthigai - Pada 2 3 4 - Rishabam</item>
+        <item>Rohini-Rishabam</item>
+        <item>Mirugaseeriham - Pada 1 2 - Rishabam</item>
+        <item>Mirugaseeriham - Pada 3 4 - Mithunam</item>
+        <item>Thiruvathirai - Mithunam</item>
+        <item>Punarpoosam - Pada 1 2 3 - Mithunam</item>
+        <item>Punarpoosam - Pada 4 - Katakam</item>
+        <item>Poosam - Katakam</item>
+        <item>Aayilyam - Katakam</item>
+        <item>Magam - Simmam</item>
+        <item>Pooram - Simmam</item>
+        <item>Uthiram - Pada 1 - Simmam</item>
+        <item>Uthiram - Pada 2 3 4 - Kanni</item>
+        <item>Hastham - Kanni</item>
+        <item>Chithirai - Pada 1 2 - Kanni</item>
+        <item>Chithirai - Pada 3 4 - Thulam</item>
+        <item>Swathi - Thulam</item>
+        <item>Visagam - Pada 1 2 3 - Thulam</item>
+        <item>Visagam - Pada 4 - Viruchigam</item>
+        <item>Anusham-Viruchigam</item>
+        <item>Kettai-Viruchigam</item>
+        <item>Moolam-Dhanusu</item>
+        <item>Pooradam-Dhanusu</item>
+        <item>Uthiradam - Pada 1 - Dhanusu</item>
+        <item>Uthiradam - Pada 2 3 4 - Makaram</item>
+        <item>Thiruvonam-Makaram</item>
+        <item>Avittam - Pada 1 2 - Makaram</item>
+        <item>Avittam - Pada 3 4 - Kumbam</item>
+        <item>Sadhayam-Kumbam</item>
+        <item>Pooratadhi - Pada 1 2 3 - Kumbam</item>
+        <item>Pooratadhi - Pada 4 - Meenam</item>
+        <item>Uthirattadhi-Meenam</item>
+        <item>Revathi-Meenam</item>
+    </string-array>
+    <string name="title_activity_display_message">Porutham Details</string>
+    <string name="girlStar">Girl Star</string>
+    <string name="boyStar">Boy Star</string>
+    <string name="totalStarPorutham">0</string>
+    <string name="matchStarStatus">-</string>
+    <string name="dhina">-</string>
+    <string name="ghana">-</string>
+    <string name="mahendra">-</string>
+    <string name="sthree">-</string>
+    <string name="yoni">-</string>
+    <string name="rasi">-</string>
+    <string name="rasiAthipathi">-</string>
+    <string name="vasia">-</string>
+    <string name="rajju">-</string>
+    <string name="vedhai">-</string>
+    <string name="title_activity_thank_you_user">Thank You User!</string>
+    <string name="title_activity_welcome_">Welcome To See Marriage Compliance!</string>
+    <string name="txtBgColor">#FF1493</string>
+    <string name="fgTxtColor">#FFFFFF</string>
+    <string name="title_activity_thank_you_">Thank You!</string>
+    <string name="disclaim_text">This is a high level porutham. For further details consult your astrologer.</string>
+    <string name="isMatch">View Match</string>
+    <string name="gStar">Girl\'s \\nNakshatram</string>
+    <string name="bStar">Boy\'s \\nNakshatram</string>
+    <string name="title_activity_star_results">starResults</string>
+</resources>

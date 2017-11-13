@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.apps.rshankar.nakshatra_porutham">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Nakshatra_Porutham"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Porutham_Results"
+            android:label="@string/title_activity_display_message"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Welcome_Activity"
+            android:label="@string/title_activity_welcome_"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ThankYou_Activity"
+            android:label="@string/title_activity_thank_you_"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".starResults"
+            android:label="@string/title_activity_star_results"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

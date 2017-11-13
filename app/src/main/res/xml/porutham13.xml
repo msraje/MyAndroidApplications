@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <star>
+        <id>0</id>
+        <name>Asupathi-Mesham</name>
+        <porutham>1,2,4,5,6,7,9,10</porutham>
+        <totalPorutham>8</totalPorutham>
+        <result>1</result>
+    </star>
+
+    <star>
+        <id>1</id>
+        <name>Bharani-Mesham</name>
+        <porutham>88</porutham>
+        <totalPorutahm>88</totalPorutahm>
+        <result>88</result>
+
+    </star>
+
+    <star>
+        <id>2</id>
+        <name>Karthigai - Pada 1 - Mesham</name>
+        <porutham>1,2,4,5,6,7,9,10</porutham>
+        <totalPorutham>8</totalPorutham>
+        <result>1</result>
+    </star>
+
+    <star>
+        <id>3</id>
+        <name>Karthigai - Pada 2 3 4 - Rishabam</name>
+        <porutham>1,2,4,5,6,9,10</porutham>
+        <totalPorutham>7</totalPorutham>
+        <result>1</result>
+    </star>
+
+    <star>
+        <id>4</id>
+        <name>Rohini-Rishabam</name>
+        <porutham>2,4,6,9,10</porutham>
+        <totalPorutham>5</totalPorutham>
+        <result>3</result>
+    </star>
+
+    <star>
+        <id>5</id>
+        <name>Mirugaseeriham - Pada 1 2 - Rishabam</name>
+        <porutham>1,2,3,4,6,9,10</porutham>
+        <totalPorutahm>7</totalPorutahm>
+        <result>2</result>
+    </star>
+
+    <star>
+        <id>6</id>
+        <name>Mirugaseeriham - Pada 3 4 - Mithunam</name>
+        <porutham>1,2,3,4,6,7,9,10</porutham>
+        <totalPorutahm>8</totalPorutahm>
+        <result>2</result>
+    </star>
+
+    <star>
+        <id>7</id>
+        <name>Thiruvathirai - Mithunam</name>
+        <porutham>2,4,5,6,7,9,10</porutham>
+        <totalPorutham>7</totalPorutham>
+        <result>1</result>
+    </star>
+
+    <star>
+        <id>8</id>
+        <name>Punarpoosam - Pada 1 2 3 - Mithunam</name>
+        <porutham>1,2,4,6,7,9,10</porutham>
+        <totalPorutahm>7</totalPorutahm>
+        <result>2</result>
+    </star>
+
+    <star>
+        <id>9</id>
+        <name>Punarpoosam - Pada 4 - Katakam</name>
+        <porutham>1,2,4,6,7,9,10</porutham>
+        <totalPorutahm>7</totalPorutahm>
+        <result>2</result>
+    </star>
+
+    <star>
+        <id>10</id>
+        <name>Poosam - Katakam</name>
+        <porutham>88</porutham>
+        <totalPorutahm>88</totalPorutahm>
+        <result>88</result>
+    </star>
+
+    <star>
+        <id>11</id>
+        <name>Aayilyam - Katakam</name>
+        <porutham>1,2,4,6,7,9,10</porutham>
+        <totalPorutahm>7</totalPorutahm>
+        <result>2</result>
+
+    </star>
+
+
+    <star>
+        <id>12</id>
+        <name>Magam - Simmam</name>
+        <porutham>1,2,4,5,6,7,8,9,10</porutham>
+        <totalPorutahm>9</totalPorutahm>
+        <result>1</result>>
+    </star>
+
+    <star>  <id>13</id>
+        <name>Pooram - Simmam</name>
+        <porutham>EE2</porutham>
+        <totalPorutahm>EE2</totalPorutahm>
+        <result>EE2</result>
+
+    </star>
+
+    <star>
+        <id>14</id>
+        <name>Uthiram - Pada 1 - Simmam</name>
+        <porutham>1,2,5,6,7,9,10</porutham>
+        <totalPorutahm>7</totalPorutahm>
+        <result>1</result>
+
+    </star>
+
+    <star>
+        <id>15</id>
+        <name>Uthiram - Pada 2 3 4 - Kanni</name>
+        <porutham>1,2,5,7,9,10</porutham>
+        <totalPorutahm>6</totalPorutahm>
+        <result>1</result>
+    </star>
+
+    <star>
+        <id>"16"  </id>
+        <name>Hastham - Kanni</name>
+        <porutham>2,5,7,9,10</porutham>
+        <totalPorutahm>5</totalPorutahm>
+        <result>2</result>
+    </star>
+
+    <star>
+        <id>17</id>
+        <name>Chithirai - Pada 1 2 - Kanni</name>
+        <porutham>1,2,3,5,7,9,10</porutham>
+        <totalPorutahm>7</totalPorutahm>
+        <result>1</result>
+    </star>
+
+
+
+<star>
+<id>18</id>
+<name>Chithirai - Pada 3 4 - Thulam</name>
+<porutham>1,2,3,5,8,9,10</porutham>
+<totalPorutahm>7</totalPorutahm>
+<result>1</result>
+</star>
+
+
+
+<star>
+<id>19</id>
+<name>Swathi - Thulam</name>
+<porutham>2,5,8,9,10</porutham>
+<totalPorutahm>5</totalPorutahm>
+<result>2</result>
+</star>
+
+<star>
+<id>20</id>
+<name>Visagam - Pada 1 2 3 - Thulam</name>
+<porutham>1,2,5,8,9,10</porutham>
+<totalPorutahm>6</totalPorutahm>
+<result>1</result>
+</star>
+
+<star>
+<id>21</id>
+<name>Visagam - Pada 4 - Viruchigam</name>
+<porutham>1,2,5,7,9,10</porutham>
+<totalPorutahm>6</totalPorutahm>
+<result>1</result>
+</star>
+
+<star>
+<id>22</id>
+<name>Anusham-Viruchigam</name>
+    <porutham>88</porutham>
+    <totalPorutahm>88</totalPorutahm>
+    <result>88</result>
+</star>
+
+<star>
+<id>23</id>
+<name>Kettai-Viruchigam</name>
+    <porutham>1,2,4,5,7,9,10</porutham>
+    <totalPorutahm>7</totalPorutahm>
+    <result>1</result>
+</star>
+
+<star>
+<id>24</id>
+<name>Moolam-Dhanusu</name>
+    <porutham>1,2,4,5,7,9,10</porutham>
+    <totalPorutahm>7</totalPorutahm>
+    <result>1</result>
+
+</star>
+
+<star>
+<id>25</id>
+<name>Pooradam-Dhanusu</name>
+    <porutham>88</porutham>
+    <totalPorutahm>88</totalPorutahm>
+    <result>88</result>
+</star>
+
+<star>
+<id>26</id>
+<name>Uthiradam - Pada 1 - Dhanusu</name>
+<porutham>1,2,4,5,7,9,10</porutham>
+<totalPorutahm>7</totalPorutahm>
+<result>1</result>
+</star>
+
+<star>
+<id>27</id>
+<name>Uthiradam - Pada 2 3 4 - Makaram</name>
+<porutham>1,2,4,5,9,10</porutham>
+<totalPorutahm>6</totalPorutahm>
+<result>1</result>
+</star>
+
+<star>
+<id>28</id>
+<name>Thiruvonam-Makaram</name>
+<porutham>2,4,5,9,10</porutham>
+<totalPorutahm>5</totalPorutahm>
+<result>2</result>
+</star>
+
+<star>
+<id>29</id>
+<name>Avittam - Pada 1 2 - Makaram</name>
+<porutham>1,2,3,4,5,9,10</porutham>
+<totalPorutahm>7</totalPorutahm>
+<result>1</result>
+</star>
+
+<star>
+<id>30</id>
+<name>Avittam - Pada 3 4 - Kumbam</name>
+<porutham>1,2,3,4,5,6,9,10</porutham>
+<totalPorutahm>8</totalPorutahm>
+<result>1</result>
+</star>
+
+<star>
+<id>31</id>
+<name>Sadhayam - Kumbam</name>
+<porutham>2,4,5,6,9,10</porutham>
+<totalPorutahm>6</totalPorutahm>
+<result>1</result>
+</star>
+
+<star>
+<id>32</id>
+<name>Pooratadhi - Pada 1 2 3 - Kumbam</name>
+<porutham>1,2,4,5,6,9,10</porutham>
+<totalPorutahm>7</totalPorutahm>
+<result>1</result>
+</star>
+
+<star>
+<id>33</id>
+<name>Pooratadhi - Pada 4 - Meenam</name>
+    <porutham>1,2,4,5,6,9,10</porutham>
+    <totalPorutahm>7</totalPorutahm>
+    <result>1</result>
+</star>
+
+<star>
+<id>34</id>
+<name>Uthirattadhi-Meenam</name>
+    <porutham>88</porutham>
+    <totalPorutahm>88</totalPorutahm>
+    <result>88</result>
+</star>
+
+<star>
+<id>35</id>
+<name>Revathi-Meenam</name>
+    <porutham>1,2,4,5,7,9,10</porutham>
+    <totalPorutahm>7</totalPorutahm>
+    <result>1</result>
+
+</star>
+
+
+    </resources>
